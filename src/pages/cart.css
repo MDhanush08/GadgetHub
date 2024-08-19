@@ -1,0 +1,18 @@
+
+button{
+
+    padding: 5px 10px;
+    background:  #3368a8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button:hover{
+    transform: scale(1.1);
+}
+
