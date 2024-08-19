@@ -1,7 +1,7 @@
 import { Col, Container, Row } from "react-bootstrap";
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import "./slidercard.css";
-import { Link, useNavigate } from "react-router-dom";
+import {useNavigate } from "react-router-dom";
 
 const SlideCard = ({title,desc,cover}) => {
 
