@@ -7,7 +7,7 @@ import {
   decreaseQty,
   deleteProduct,
 } from "../app/features/cart/cartSlice";
-import { hover } from "@testing-library/user-event/dist/hover";
+
 
 
 const Cart = () => {
